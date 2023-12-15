@@ -1,16 +1,14 @@
-# calculadora
+# Calculadora
 
-A new Flutter project.
+Projeto experimental com a biblioteca math_expressions.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+![Imagem da aplicação](https://github.com/arthur-morais/flutter-calculator/assets/96094985/255c9515-f461-4ec1-b924-b918751f6a0d)
 
-A few resources to get you started if this is your first Flutter project:
+## Instalação
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+Clone o repositório na sua máquina:
+git clone https://github.com/arthur-morais/flutter-calculator.git
+```
